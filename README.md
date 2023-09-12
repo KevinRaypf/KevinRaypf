@@ -1,4 +1,4 @@
-### Hello there my name is Kevin Ray, I'm an <a href="https://linkedin.com/in/kevinray">IT Professional</a>☺</h1>
+### Hello there my name is Kevin Ray, I'm an <a href="https://linkedin.com/in/https://www.linkedin.com/in/kevin-ray-a272b35a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BixYcJwr4T%2FyU%2F%2BsGANo9kA%3D%3D">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
